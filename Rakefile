@@ -6,6 +6,7 @@ require "stringex"
 require "yaml"
 require "fileutils"
 
+
 # Configuration
 
 # Set "rake watch" as default
@@ -149,11 +150,16 @@ task :publish do
   number = $stdin.gets
   if number =~ /\D/
     filename = files[number.to_i - 1].sub("#{DRAFTS}/", "")
-    FileUtils.mv("#{DRAFTS}/#{filename}", "#{POSTS}/#{DATE}-#{filename}")
+    FileUtils.mv("#{DRAFTS}/#{filename}", "source/#{POSTS}/#{DATE}-#{filename}")
     puts "#{filename} was moved to '#{POSTS}'."
   else
     puts "Please choose a draft by the assigned number."
   end
+end
+
+desc "Move public to github.io folder for syncing"
+task :togithub do
+    FileUtils.cp_r 'public/.', '/Users/shawngraham/Documents/smgprojects.github.io/smgprojects.github.io'
 end
 
 desc "Preview the site with POW"
@@ -183,10 +189,10 @@ task :rsync do
 	puts "\nDeploying the site via rsync..."
 
 	ssh_port       = "22"
-	ssh_user       = "jasonhep@jasonheppler.org"
+	ssh_user       = "notebook@notebook.graeworks.net"
 	rsync_delete   = true
 	rsync_options  = "--checksum --stats -avz -e"
-	public_dir     = "public/"
+	public_dir     = "public_html/"
 	document_root  = "~/public_html/notebook/"
 
 	exclude = ""
@@ -214,12 +220,12 @@ CLOBBER.include('public/*')
 
 desc "Edit drafts"
 task :write do
-  sh %[mvim _drafts/*]
+  sh %[atom _drafts/*]
 end
 
 desc "Edit Rmd drafts"
 task :rwrite do
-  sh %[mvim _Rmd/*]
+  sh %[atom _Rmd/*]
 end
 
 task :version do

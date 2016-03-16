@@ -1,8 +1,8 @@
 # Site settings
-title: Open History Notebook
-description: "The open history notebook of historian Jason A. Heppler."
+title: Open Digital Humanities Notebook
+description: "An open history notebook forked from Jason Heppler"
 baseurl: ""
-url: "http://notebook.jasonheppler.org"
+url: "http://smgprojects.github.io"
 root: /
 highlighter: pygments
 gems: ['jekyll/scholar']
@@ -15,14 +15,14 @@ exclude: ["Rakefile", "README.md", "public"]
 
 # Author information
 author:
-  name: Jason A. Heppler
-  givenName: Jason
-  familyName: Heppler
-  avatar: me.jpg
-  email: jason@jasonheppler.org
-  twitter_username: jaheppler
-  github_username:  hepplerj
-  homeurl: http://jasonheppler.org
+  name: Shawn Graham
+  givenName: Shawn
+  familyName: Graham
+  avatar: minionme.jpeg
+  email: shawn.graham@carleton.ca
+  twitter_username: electricarchaeo
+  github_username:  shawngraham
+  homeurl: http://electricarchaeology.ca
 
 # Scholar settings
 scholar:
