@@ -8,9 +8,9 @@
 # use menu: View -> Developer -> Reload Window
 
 # website of your blog
-siteUrl: ""
+siteUrl: "smgprojects.github.io"
 # root directory of your blog
-siteLocalDir: ""
+siteLocalDir: "/Users/shawngraham/Github/smgprojectsnotebook/"
 # directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # directory to posts from siteLocalDir
@@ -20,9 +20,9 @@ siteImagesDir: "images/"
 
 # URLs to tags/posts/categories JSON files
 # https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
-urlForPosts: ""
-urlForTags: ""
-urlForCategories: ""
+urlForPosts: "source/posts.json"
+urlForTags: "source/tags.json"
+urlForCategories: "source/categories.json"
 
 # The front matter key name
 frontMatterNameTags: "tags"
