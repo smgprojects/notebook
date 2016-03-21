@@ -15,7 +15,7 @@ Text here describing the project. See Heppler's machinesvalley.md for original
 
 Notes organized by [research archive](/research-archives/).
 
-[No Man's Sky Stuff](#todo:0)
+[No Man's Sky Stuff](#todo:10)
 
 ## Related Notes
 

@@ -16,6 +16,8 @@ This notebook is a fork of [Jason Heppler's](http://notebook.jasonheppler.org/).
 
 I'll just note here that I have a script on my machine that turns my annotations on pdfs into a single markdown document; another script makes URLs to open the original annotation on the appropriate page within Skim - see [Exporting your annotations from Skim](http://electricarchaeology.ca/2015/06/28/exporting-your-pdf-annotations-from-skim/) and [Custom Skim URLs](http://www.dansheffler.com/blog/2014-07-02-custom-skim-urls/). So in any of my notes if you see a link to a page number, that opens a pdf at the right spot on my machine.
 
+I've also added the ability for readers to leave annotations on any part of this notebook using the [hypothesis](https://hypothes.is/) web annotation architecture. See that strip down the right hand side of the page? Click on there to get started!
+
 ## Notes, Essays, Categories, Tags
 
 *Jason continues:*

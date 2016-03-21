@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Shawn Graham, associate prof in the history department at [Carleton University](http://carleton.ca/history). What you are looking at is a fork of Jason Heppler's [open notebook](http://notebook.jasonheppler.org/). I've been looking for some sort of open notebook [solution](http://electricarchaeology.ca/2015/10/06/an-elegant-open-notebook/) for a while; I like Jason's version.
+Hi, I'm Shawn Graham, associate prof in the history department at [Carleton University](http://carleton.ca/history). What you are looking at is a fork of Jason Heppler's [open notebook](http://notebook.jasonheppler.org/). I've been looking for some sort of open notebook [solution](http://electricarchaeology.ca/2015/10/06/an-elegant-open-notebook/) for a while; I like Jason's version. I've added the ability for readers to leave annotations on any part of this notebook using the [hypothesis](https://hypothes.is/) web annotation architecture. See that strip down the right hand side of the page? Click on there to get started!
 
 ## What is Open Notebook History?
 
