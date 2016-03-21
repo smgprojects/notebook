@@ -20,9 +20,9 @@ siteImagesDir: "images/"
 
 # URLs to tags/posts/categories JSON files
 # https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
-urlForPosts: "source/posts.json"
-urlForTags: "source/tags.json"
-urlForCategories: "source/categories.json"
+urlForPosts: "http://smgprojects.github.io/posts.json"
+urlForTags: "http://smgprojects.github.io/tags.json"
+urlForCategories: "http://smgprojects.github.io/categories.json"
 
 # The front matter key name
 frontMatterNameTags: "tags"
