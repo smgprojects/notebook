@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tan - Fixing Virtual Heritage"
+title: "tan - Fixing Virtual Heritage"
 date: 2016-03-16 11:15
 tags: [virtual heritage]
 categories:
@@ -13,7 +13,10 @@ categories:
 <h4>{% reference tan_virtual_2009 %}</h4>
 
 ### crosslinked notes
-[tan- virtual heritage reality and criticism](2016-03-16-tan-viertual-heritage-reality-and-criticism.md)[[tan - domains of virtual heritage]][[tan - how the user is lost]]
+[tan- virtual heritage reality and criticism](2016-03-16-tan-viertual-heritage-reality-and-criticism.md) [tan - domains of virtual heritage][e340686b] [tan - how the user is lost][52fa06ef]
+
+  [e340686b]: http://smgprojects.github.io/tan-virtual-heritage-reality-and-criticism/ "tan- virtual heritage reality and criticism"
+  [52fa06ef]: http://smgprojects.github.io/tan-how-the-user-is-lost/ "tan - how the user is lost"
 
 p 152- Tan's suggestions, under 'approaching the problem' -> 'in virtual heritage projects, digitalized artifacts somehow need to trigger the user’s cognitive process while he is exploring the virtual environment,   
 [Page 11](sk://tan_virtual_2009#11)
