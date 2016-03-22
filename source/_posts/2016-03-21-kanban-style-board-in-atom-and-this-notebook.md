@@ -14,9 +14,9 @@ categories:
 
 Kanban boards are all over the place. At their simplest, it's just a whiteboard with three colums, 'to do', 'doing', and 'done'. You write your tasks on post-it notes, and move them through the columns as you do 'em. Simple.
 
-I'm not sure who's behind it, but 'imdone' has a great atom plugin that monitors your project for key phrases like TO DO in your code or your notes. Then, with alt+t, it opens up a board _inside atom_ where you can see all of your tasks - and move them around as you get through them. It's pretty cool and works extremely well. Only hiccup I've encountered so far is making sure that the `.imdone` config file is in my project folder.
+I'm not sure who's behind it, but 'imdone' has a great [atom plugin](https://atom.io/packages/imdone-atom) that monitors your project for key phrases like TO DO in your code or your notes. Then, with alt+t, it opens up a board _inside atom_ where you can see all of your tasks - and move them around as you get through them. It's pretty cool and works extremely well. Only hiccup I've encountered so far is making sure that the `.imdone` config file is in my project folder.
 
-So, now when I'm writing a note, I can turn any text I want into a `to do` by making it into a special link, `[like this](#todo:)`. The combination of imdone with mdwriter's quick [linking to my other notes][4792e1bf] make atom a great environment for writing this open notebook.
+So, now when I'm writing a note, I can turn any text I want into a `to do` by making it into a special link, `[like this](#todo:)`. The combination of imdone with mdwriter's quick [linking to my other notes][4792e1bf] make atom a great environment for writing this open notebook. The plugin has some other bits and bobs of functionality (like github issue tracking too!) so a great plugin for this project.
 
   [4792e1bf]: http://smgprojects.github.io/getting-mdwriter-links-to-work/ "getting mdwriter links to work"
 
