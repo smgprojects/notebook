@@ -4,7 +4,7 @@ title: "getting mdwriter links to work"
 date: 2016-03-21 15:06
 tags: [notebook]
 categories:
-- Code
+- Meta
 ...
 
 * Table of Contents

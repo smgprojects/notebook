@@ -12,7 +12,9 @@ categories:
 
 A while back Andrew Reinhard devised a map of questions / relationships that could be usefully filed under the 'archaeogaming' rubric. I think it'd be handy to have a copy of that map filed here. The writeup of how I made it is on [the blog](http://electricarchaeology.ca/2015/12/18/a-map-of-archaeogaming/)
 
-![archaeomap](images/archaeomap.jpg)
+![archaeomap]({{ url }}/images/archaeomap.jpg)
+
+See [this gist](https://gist.github.com/shawngraham/5a036bc0477dbae48b91)
 
 ```R
 ###
