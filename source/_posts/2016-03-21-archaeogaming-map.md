@@ -14,7 +14,7 @@ A while back Andrew Reinhard devised a map of questions / relationships that cou
 
 ![archaeomap](images/archaeomap.jpg)
 
-```
+```R
 ###
 URL <- paste0(
   "https://gist.githubusercontent.com/shawngraham/2bfad0c10e7519a630a9/raw/",
