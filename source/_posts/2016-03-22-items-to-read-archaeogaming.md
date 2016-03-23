@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Items to Read - archaeogaming"
+title: "items to Read - archaeogaming"
 date: 2016-03-22 10:17
 tags: [archaeogaming, to read]
 categories:
