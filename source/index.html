@@ -5,6 +5,12 @@ date: 2015-11-14 05:56:38
 
   {% markdown front.md %}
 
+{% for post in page.status["Active"] limit:5 %}
+  <tr>
+      <td width="15%;"><a href="{{ post.url | prepend: site.baseurl }}>"{{post.title}}</a></td>
+  </tr>
+{% endfor %}
+
   <h3 class="page-heading">Recent Essays and Posts</h3>
 
   <table class="table-stripped">

@@ -1,21 +1,29 @@
 ## Welcome
 
-My name is [Shawn Graham](http://electricarchaeology.ca) and I am an associate professor of Digital Humanities in the Department of History at [Carleton University](http://carleton.ca/history). This is my open research notebook for my sabbatical in the 2016-17 academic year. I forked it from [Jason Heppler](http://jasonheppler.org) and where appropriate, I've left in his original comments on how this site all works and the logic of its organization.
+My name is [Shawn Graham](http://electricarchaeology.ca) and I am an associate professor of Digital Humanities in the Department of History at [Carleton University](http://carleton.ca/history). This is my open research notebook for my sabbatical in the 2016-17 academic year. [My GitHub repositories are here.](http://github.com/shawngraham)
 
-You can follow along with my research on this site. The best places to start are:
-
-- [Recent activity](/archive/): listing the most recent additions to the notebook
-- [All pages](/archive-alphabetical/): see all pages in the notebook alphabetically
-
-You can be part of my research process too. I've added the ability for readers to leave annotations on any part of this notebook using the [hypothesis](https://hypothes.is/) web annotation architecture. See that strip down the right hand side of the page? Click on there to get started!
-
-Also, check out the project tabs along the lefthand side. I maintain [GitHub repositories](http://github.com/shawngraham) for other work related to my research and scholarship.
+Readers may leave annotations on any part of this notebook using the [hypothesis](https://hypothes.is/) web annotation architecture. See that strip down the right hand side of the page? Click on there to get started!
 
 ### Active Projects
 
-- [Soundbashing the Past](/soundbashing-history/). The digital humanities privileges the visual. There is however no necessary reason why something like a topic model should be represented by a graph. In this project, I am exploring what different grammars of sonification might be like for representing historical data aurally. NB I'm not talking about archaeoacoustics here or recreating past soundscapes or soundsheds. Rather, I want to take the born-digital results of our data machinations and listen to what they might be tellling us.
-- [Archaeogaming](/archaeogaming/) stay tuned!
+- [Soundbashing the Past](/soundbashing-history/)
+- [Archaeogaming](/archaeogaming/)
 
-## How 'open' is this, really?
-
-Pretty open. I'm pretty good about letting it all just be, warts and all. [Electric Archaeology](http://electricarchaeology.ca) has been my main vector for writing up what works and what hasn't and where my thinking is at any particular moment - I've been at that for ten years now. I'm told that, of a topic model of academic bloggers, I'm one of the most diverse... which probably could also be read as a negative, I suppose. Not everything I write ends up on the blog; not everything I write notes on will necessarily end up in this site (although my aim is indeed to get everything online in due course). I work across a number of different machines, depending on the project, so that's one reason why things might not appear here. Other things I'm working on are sensitive, and so what might appear here would be more reflective rather than ur-source, if you see what I mean. So, caveat lector, caveat utilitor.
+<dl>
+  {% assign projects_sorted = site.project | sort: 'status' %}
+  {% for project in projects_sorted %}
+    <dt>
+      <a class="project-link" href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+        {{ project.title }}
+      </a>
+      {% if project.status == "active" %}
+        <span class="label label-success">{{ project.status }}</span>
+      {% elsif project.status == "collecting" %}
+        <span class="label label-info">{{ project.status }}</span>
+      {% elsif project.status == "on hold" %}
+        <span class="label label-warning">{{ project.status }}</span>
+      {% endif%}
+    </dt>
+    <dd>{{ project.description }}</dd>
+  {% endfor %}
+</dl>

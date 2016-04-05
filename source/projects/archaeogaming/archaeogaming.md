@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archaeogaming
+status: Active
 permalink: /archaeogaming/
 ---
 

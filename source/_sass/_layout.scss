@@ -21,7 +21,7 @@
 
 .site-header ul li {
     display: inline-block;
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 .site-header ul li a {
@@ -376,14 +376,14 @@ ul#post-categories li:last-child:after {
   margin-top: 9px;
 }
 .nav-list {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 1px;
+  padding-right: 1px;
   margin-bottom: 0;
 }
 .nav-list > li > a,
 .nav-list .nav-header {
-  margin-left: -15px;
-  margin-right: -15px;
+  margin-left: -35px;
+  margin-right: -35px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   font-size: $small-font-size;
 }
