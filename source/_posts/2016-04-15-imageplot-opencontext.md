@@ -14,9 +14,9 @@ categories:
 
 + Eric on how to get stuff out of OpenContext:
 
-  https://twitter.com/ekansa/status/720706858093137920
+[https://twitter.com/ekansa/status/720706858093137920](https://twitter.com/ekansa/status/720706858093137920)
 
-https://twitter.com/ekansa/status/720827996915900416
+[https://twitter.com/ekansa/status/720827996915900416](https://twitter.com/ekansa/status/720827996915900416)
 
 ```
 http://opencontext.org/media-search/Turkey.json?proj=22-kenan-tepe&prop=22-image-type---22-field-photo&response=uri-meta
@@ -33,6 +33,6 @@ http://opencontext.org/media-search/Turkey.json?proj=22-kenan-tepe&prop=22-image
 + in imageplot, open imageplot.txt and run that.
 + for 3d viz of hue, saturation, brightness, see Joel's post.
 
-![img](https://pbs.twimg.com/media/CgFTo6yUUAAjsaR.jpg) https://twitter.com/electricarchaeo/status/720949378526113792
+![img](https://pbs.twimg.com/media/CgFTo6yUUAAjsaR.jpg) [https://twitter.com/electricarchaeo/status/720949378526113792](https://twitter.com/electricarchaeo/status/720949378526113792)
 
-![img](https://pbs.twimg.com/media/CgFWG0mVIAAUA19.jpg) https://twitter.com/electricarchaeo/status/720952091364233221
+![img](https://pbs.twimg.com/media/CgFWG0mVIAAUA19.jpg) [https://twitter.com/electricarchaeo/status/720952091364233221](https://twitter.com/electricarchaeo/status/720952091364233221)
