@@ -2,7 +2,7 @@
 layout: post
 title: "Items to Read concerning Glitch"
 date: 2016-04-21 08:53
-tags: [deformation, glitch, aesthetics, visualization, soundbashing]
+tags: [soundbashing, to read, deformation, glitch, aesthetics, visualization]
 categories:
 - Readings
 ...
@@ -11,7 +11,8 @@ categories:
 {:toc}
 
 Kramer:
-> For Tanner, as for all my students, deformance and glitching helped them look and listen more closely. Their attention bore sophisticated interpretive fruit, both about the folk revival itself and the larger methods by which we perceive and make sense of artifacts and evidence to produce historical meaning. These tactics make use of the strange material qualities of digital code, of the interplay between machine readable and the human readable, of the ability to “mess” with artifacts as they converge in the digital medium. For some historians, deformance and glitching might seem quite disconcerting, at their worst resembling something like Stalin airbrushing a Soviet official out of a photograph after sending him to the gulag. But if handled smartly as a new method, they can render history more revealing, more accurate, more illuminating. <br> We glitch for glimmers of truth lurking in the data. We deform to deliver how history develops at the surface as well as below it, above it, of it, beyond it. We distort for discovery—the past’s endless arrangements and rearrangements of code and meaning, significance and power, assembling in a process that always breaks down, degrading into signals that were once disorganized yet, as we turn back to them, build up again into new clues, new songs, new messages, new stories.
+
+> For Tanner, as for all my students, deformance and glitching helped them look and listen more closely. Their attention bore sophisticated interpretive fruit, both about the folk revival itself and the larger methods by which we perceive and make sense of artifacts and evidence to produce historical meaning. These tactics make use of the strange material qualities of digital code, of the interplay between machine readable and the human readable, of the ability to “mess” with artifacts as they converge in the digital medium. For some historians, deformance and glitching might seem quite disconcerting, at their worst resembling something like Stalin airbrushing a Soviet official out of a photograph after sending him to the gulag. But if handled smartly as a new method, they can render history more revealing, more accurate, more illuminating. <br><br> We glitch for glimmers of truth lurking in the data. We deform to deliver how history develops at the surface as well as below it, above it, of it, beyond it. We distort for discovery—the past’s endless arrangements and rearrangements of code and meaning, significance and power, assembling in a process that always breaks down, degrading into signals that were once disorganized yet, as we turn back to them, build up again into new clues, new songs, new messages, new stories.
 
 # Blog Posts
 
