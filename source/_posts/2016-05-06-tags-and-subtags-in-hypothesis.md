@@ -2,7 +2,7 @@
 layout: post
 title: "Tags and Subtags in Hypothesis"
 date: 2016-05-06 11:21
-tags: [annotations]
+tags: [workflow, annotations]
 categories:
 - Meta
 ...
@@ -10,6 +10,8 @@ categories:
 * Table of Contents
 {:toc}
 
-When using the [tagging script](https://github.com/smgprojects/notebook/tree/master/source/scripts) `getannotations.py` the tags in hypothesis have to be structured. The diagram below shows the current structure I am trying to use. 
+# tags
+
+When using the [tagging script](https://github.com/smgprojects/notebook/tree/master/source/scripts) `getannotations.py` the tags in hypothesis have to be structured. The diagram below shows the current structure I am trying to use.
 
 ![img](/images/BB_00085.pdf.png)
