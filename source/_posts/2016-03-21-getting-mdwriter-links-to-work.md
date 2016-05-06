@@ -22,6 +22,6 @@ urlForPosts: "http://smgrojects.github.io/posts.json"
 urlForCategories: "http://smgrojects.github.io/categories.json"
 ```
 
-Those .json files are generated from [this code](https://gist.github.com/zhuochun/fe127356bcf8c07ae1fb); they live inside my `source` folder and are generated when I `jekyll build`.
+Those .json files are generated from [this code](https://gist.github.com/zhuochun/fe127356bcf8c07ae1fb); they live inside my `source` folder and are generated when I `jekyll build`. Make sure also, if it still doesn't seem to work, that the URLs for those json files are entered on the mdwriter configuration page within atom.
 
   [c0d5437a]: http://smgprojects.github.io/sonification-of-john-adams/ "sonification of john adams"
