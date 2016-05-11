@@ -129,11 +129,13 @@ Note how the notes are rather dispersed in the earliest scans (at left, 1883) an
 - the patterning of the cloud of special characters **might** be giving me a way of exploring something of the materiality of printing? It reminds me of Ingrid's DH MA thesis at Carleton, where she adduced how small errors in reprints of _A History of the Pyrates_ said more about the culture/physical situation of printers than the world of authors
 - For all my sonification, it's the visual player-piano roll that seems to be giving me the most useful information
 - That said, the sound itself forces a different kind of attention whilst listening, and the narrowing of tone over time does come across. Or am I just looking for that, now that I've seen the player-piano roll? Another 'auditory hallucination'? see my [Programming Historian tutorial (under-review version)](http://programminghistorian.github.io/ph-submissions/lessons/sonification):
+
 >What’s going on here? If that song was already known to you, you probably heard the actual ‘words’. Yet, no words are present in the song - if the song was not already familiar to you, it sounded like garbled nonsense (see more examples on Andy Baio’s website). This effect is sometimes called an ‘auditory hallucination’. This example shows how in any representation of data we can hear/see what is not, strictly speaking, there. We fill the holes with our own expectations. <br> Consider the implications for history. If we sonify our data, and begin to hear patterns in the sound, or odd outliers, our cultural expectations about how music works (our memories of similar snippets of music, heard in particular contexts) are going to colour our interpretation. This I would argue is true about all representations of the past, but sonifying is just odd enough to our regular methods that this self-awareness will help us identify or communicate the critical patterns in the (data of the) past.
 
 ## To do next:
 - get more txt files
 - re-run the analysis. Do the patterns hold up?
+- try calculating ratios
 - what are the special characters doing?
 - use exiftool to consider the metadata
 - how can I make this data haptic?
