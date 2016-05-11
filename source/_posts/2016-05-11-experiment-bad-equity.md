@@ -136,6 +136,7 @@ Note how the notes are rather dispersed in the earliest scans (at left, 1883) an
 - get more txt files
 - re-run the analysis. Do the patterns hold up?
 - try calculating ratios
+- try Ben's script 
 - what are the special characters doing?
 - use exiftool to consider the metadata
 - how can I make this data haptic?
