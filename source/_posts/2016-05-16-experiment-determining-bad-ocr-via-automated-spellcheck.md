@@ -46,3 +46,13 @@ I tweeted some of the resulting graphs. In reverse order:
 [https://twitter.com/electricarchaeo/status/730571270870437889](https://twitter.com/electricarchaeo/status/730571270870437889)
 
 ![img](https://pbs.twimg.com/media/CiRCUkIW0AQTkQ-.jpg)
+
+# interpretation
+
+The consistent values in the .75 range are all editions where the Provincial Archives have inserted a placeholder for a missing edition.
+
+![img](https://pbs.twimg.com/media/CiODBX-WUAItMhm.jpg)
+
+Filter those out:
+
+![img](/images/ocr-spell.png)
